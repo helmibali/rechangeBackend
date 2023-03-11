@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "flickr.apiKey",
+      "type": "java.lang.String",
+      "description": "Description for flickr.apiKey."
+    },
+    {
+      "name": "flickr.apiSecret",
+      "type": "java.lang.String",
+      "description": "Description for flickr.apiSecret."
+    },
+    {
+      "name": "flickr.appKey",
+      "type": "java.lang.String",
+      "description": "Description for flickr.appKey."
+    },
+    {
+      "name": "flickr.appSecret",
+      "type": "java.lang.String",
+      "description": "Description for flickr.appSecret."
+    }
+  ] }
